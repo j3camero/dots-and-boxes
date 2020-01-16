@@ -10,4 +10,5 @@ test: test-main
 	./test-main
 
 test-main: test-main.o \
-           dots-and-boxes.o dots-and-boxes-test.o
+	         dots-and-boxes.o dots-and-boxes-test.o \
+	         edge.o edge-test.o

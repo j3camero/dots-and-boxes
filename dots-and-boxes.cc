@@ -1,5 +1,5 @@
 #include "dots-and-boxes.h"
 
-DotsAndBoxes::DotsAndBoxes() {
+DotsAndBoxes::DotsAndBoxes(int n, int m) {
 
 }
